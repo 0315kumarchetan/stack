@@ -1,5 +1,5 @@
 class Stack_implementation{
-    public static void main(String[] args){
+    public static void main(String[] args)throws Exception{
         stack st = new stack();
         st.push(45);
         System.out.println(st.size());
